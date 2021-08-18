@@ -1,0 +1,15 @@
+theme = "m10c"
+baseURL = 'https://iotku.pw/blog/'
+languageCode = 'en-us'
+title = "iotku's blog"
+
+[[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
+
+[[params.social]]
+  icon = "github"
+  name = "My Github"
+  url = "https://github.com/vaga"
+
