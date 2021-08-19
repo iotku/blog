@@ -1,5 +1,5 @@
 theme = "m10c"
-baseURL = 'https://iotku.pw/blog/'
+baseURL = 'https://blog.iotku.pw/'
 languageCode = 'en-us'
 title = "iotku's blog"
 
@@ -11,5 +11,5 @@ title = "iotku's blog"
 [[params.social]]
   icon = "github"
   name = "My Github"
-  url = "https://github.com/vaga"
+  url = "https://github.com/iotku"
 
