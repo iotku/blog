@@ -1,5 +1,5 @@
 theme = "m10c"
-baseURL = 'https://blog.iotku.pw/'
+baseURL = 'https://iotku.pw/blog/'
 languageCode = 'en-us'
 title = "iotku's blog"
 
